@@ -26,7 +26,6 @@ public class MyfirstprojectApplication implements CommandLineRunner {
 		categoryRepository.save(cat1);
 		categoryRepository.save(cat2);
 		categoryRepository.save(cat3);
-
 	}
 
 }
